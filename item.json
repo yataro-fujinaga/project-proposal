@@ -1,0 +1,72 @@
+[
+  {
+    "id": "draft",
+    "name": "下書き",
+    "description": "何を作るのか",
+    "hint": "思ったまま書く、整理せずに書く",
+    "level": "must"
+  },
+  {
+    "id": "background",
+    "name": "背景",
+    "description": "なぜ作るのか",
+    "hint": "どのような問題を解決しようとしているのか、もしくはどのような意図、文脈で作ろうとしているのか",
+    "level": "must"
+  },
+  {
+    "id": "how",
+    "name": "手段",
+    "description": "どうやって作るのか",
+    "hint": "問題の解決手段、もしくはやりたいことの実現手段",
+    "level": "must"
+  },
+  {
+    "id": "resource-you-have",
+    "name": "リソース",
+    "description": "何を持っているか",
+    "hint": "作るにあたって、あなたが提供できるモノ（技術、知識、お金）",
+    "level": "must"
+  },
+  {
+    "id": "resource-you-want",
+    "name": "リソース",
+    "description": "何が必要か",
+    "hint": "作るにあたって、あなたが欲しいモノ（技術、知識、お金）",
+    "level": "must"
+  },
+  {
+    "id": "purpose",
+    "name": "目標",
+    "description": "何を目標とするか",
+    "hint": "何を達成したら制作が終了するのか",
+    "level": "must"
+  },
+  {
+    "id": "why-not",
+    "name": "タイミング",
+    "description": "なぜ今なのか",
+    "hint": "なぜ今のタイミングが制作する必要があるのか",
+    "level": "should"
+  },
+  {
+    "id": "market-size",
+    "name": "市場規模",
+    "description": "どれぐらいの市場規模があるのか",
+    "hint": "公開されているデータから調べる",
+    "level": "should"
+  },
+  {
+    "id": "competition",
+    "name": "競合",
+    "description": "競合はどれか",
+    "hint": "制作しようとしているモノに類似したモノなど",
+    "level": "should"
+  },
+  {
+    "id": "prototype",
+    "name": "試作品",
+    "description": "現時点での進捗",
+    "hint": "制作に当たって、どれだけの準備をしているか",
+    "level": "should"
+  }
+]
