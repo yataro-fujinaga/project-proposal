@@ -14,9 +14,15 @@
 
 ### 下書き
 
+[draft.doc](https://github.com/yataro-fujinaga/project-proposal/blob/main/draft.doc)
+
 ### 要点整理
 
+作成中
+
 ### 企画書
+
+作成中
 
 ## お願い
 
